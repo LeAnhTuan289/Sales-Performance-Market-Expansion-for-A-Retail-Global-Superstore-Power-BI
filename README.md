@@ -1,6 +1,6 @@
 # 🌍 Sales Performance & Market Expansion For A Global Superstore | Power BI
 
-![image](https://github.com/user-attachments/assets/65df4f32-c787-4986-856f-49ef3f9034b6)
+![image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/2117f5843055991f6774fba7fc5ab9483e633214/documents/global-retail-expansion-e-commerce.webp)
 
 **Author:** Lê Anh Tuấn
 
