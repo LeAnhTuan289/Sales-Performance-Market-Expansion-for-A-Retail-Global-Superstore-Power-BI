@@ -141,23 +141,13 @@ The dataset consists of **three tables**:
 
 ### 1️⃣ Empathize
 
-![Image](https://github.com/user-attachments/assets/502440cd-3907-4b82-87d3-4951657fdf50)
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/5W1H_Decision_Framework.png)
 
-![Image](https://github.com/user-attachments/assets/5bfeeed8-b30e-41d0-a2f5-79ab0de2b0af)
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/Empathy_Map_Stakeholder_Needs.png)
 
 ### 2️⃣ Define point of view 
 
-![Image](https://github.com/user-attachments/assets/88ce7d37-78e1-4ca8-a8c5-28ce7b27d420)
-
-![Image](https://github.com/user-attachments/assets/c0cb9290-7ffe-42fb-b6de-602219092097)
-
-### 3️⃣ Ideate
-
-![Image](https://github.com/user-attachments/assets/e03a4866-dc53-484d-80f8-7f06b6e282ff)
-
-![Image](https://github.com/user-attachments/assets/36a18032-fc76-4cef-960e-b2f953e382d6)
-
-### 4️⃣ Prototype and review
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/Define_POV_NorthStar_Mapping.png)
 
 This part is in the dashboard
 
@@ -167,7 +157,7 @@ This part is in the dashboard
 
 ### I. Overview
 
-![Image](https://github.com/user-attachments/assets/3e58ade5-ba20-461a-b6ba-b670e820d368)
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db1.png)
 
 ### 📌 Key Findings:
 
@@ -189,7 +179,7 @@ This part is in the dashboard
 **6. Growth Driven by Existing Customers**  
    - **Buyer count** increased only **1%**, but **orders surged 51.7%**; **Average Order Value (AOV)** slightly decreased by **-0.3%**. → Indicates **strong repeat purchase behavior**, with smaller but more frequent orders.
 
-![Image](https://github.com/user-attachments/assets/b3e4cabf-ab5a-4c07-a8b3-1d6305b8d15c)
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db2.png)
 
 ### 📌 Key Findings:
 
@@ -213,7 +203,7 @@ This part is in the dashboard
      
 ### III. Product Analysis
 
-![Image](https://github.com/user-attachments/assets/d498e651-5794-4124-a9c6-6c2e56c84470)
+![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db3.png)
 
 ### 📌 Key Findings:
 
