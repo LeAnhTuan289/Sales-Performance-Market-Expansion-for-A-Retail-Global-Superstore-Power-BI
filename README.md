@@ -44,11 +44,11 @@ The goal is to provide senior managers with **data-driven insights** to:
 
 **❓Business Questions:**
 
-✔️ What is the current performance of Superstore?
+✔️ How is the business performing?
 
-✔️ Which markets should Superstore expand into to increase revenue and ROI?
+✔️ Which market should we expand?
 
-✔️ Which products should be prioritized for strategic growth?
+✔️ Which product should become strategic?
 
 
 **🎯Project Outcome:**
