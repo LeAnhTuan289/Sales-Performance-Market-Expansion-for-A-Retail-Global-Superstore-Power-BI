@@ -30,7 +30,7 @@ The goal is to provide senior managers with **data-driven insights** to:
 
 - **Identify strategic products for growth**
 
-- **Support better decision-making to drive revenue and ROI**
+- **Support better decision-making to improve revenue growth, profitability, and resource allocation**
 
 
 **👤 Who is this project for?**
@@ -51,15 +51,14 @@ The goal is to provide senior managers with **data-driven insights** to:
 ✔️ Which products should be prioritized and which ones should be limited?
 
 
-**🎯Project Outcome:**
+**🎯 Project Outcome:**
 
-- Revenue increased significantly, but profit margin remained flat, indicating rising costs and limited operational efficiency gains.  
-- Canada emerged as a high-margin market (28%) despite low revenue, while Africa and EMEA showed the fastest YoY growth, revealing expansion potential.  
-- Oceania and Africa attracted the most new customers, whereas most revenue still came from loyal, returning buyers.  
-- Technology led revenue growth and profitability, but return rates in some tech SKUs (e.g., Cisco, Motorola) impacted margins.  
-- Products like Copiers delivered the highest profit per unit, while low-performing items (e.g., Suppliers, Furnishings) diluted overall profitability.
+This project delivered a **4-page executive Power BI dashboard** that helps Senior Managers monitor global business performance, identify market expansion opportunities, and select strategic products.
 
-By aligning regional and product strategies, senior managers can **scale in high-margin markets**, **invest in scalable profitable categories**, and **optimize acquisition and return management**, driving **sustainable long-term growth**.
+The analysis found that **APAC and EU** are the core markets, **Canada** is a high-margin niche expansion opportunity, and **Technology** should be the main strategic category. At the product level, **Phones** should drive revenue growth, while **Copiers** should improve profit quality. The dashboard also identified **Tables** as a key profitability risk that should be fixed or limited before further scaling.
+
+Overall, the project demonstrates the ability to combine **data modeling, DAX, dashboard design, stakeholder empathy, and business recommendation** to support strategic decision-making.
+
 
 ## 📂 Dataset Description & Data Structure
 
@@ -149,7 +148,7 @@ The dataset consists of **three tables**:
 
 ![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/Define_POV_NorthStar_Mapping.png)
 
-This part is in the dashboard
+The Define POV stage helped translate stakeholder needs into key business questions, dashboard pages, and decision criteria such as revenue scale, profitability quality, market potential, and product-level risk.
 
 ## 📊 Key Insights & Visualizations
 
