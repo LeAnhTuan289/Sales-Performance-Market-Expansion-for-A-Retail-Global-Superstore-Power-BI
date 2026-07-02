@@ -244,3 +244,12 @@ The company should prioritize **Phones and Copiers** as strategic products. **Te
 ## IV . Insight & Recommendation
 
 ![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/613175ac4b1ca8ff214ad7f6972f44ffff9033a0/documents/Screenshot%202026-07-02%20103518.png)
+
+## 🧾 Final Conclusion & Recommendations
+
+| Strategy | Key Insight | Recommendation |
+|---|---|---|
+| 🚀 **Market Expansion** | **APAC** and **EU** are the core markets with the largest revenue and profit contribution. **Canada** has the highest Profit Margin (**26.62%**) despite low revenue. | Continue investing in **APAC and EU**, but focus on high-profit products. Run a **controlled expansion pilot in Canada** before scaling aggressively. |
+| 📦 **Product Strategy** | **Technology** is the strongest category with **$4.74M Revenue**, **$664K Profit**, and **13.99% Margin**. **Phones** drive revenue, while **Copiers** generate the highest profit. | Make **Technology** the main strategic category. Prioritize **Phones** for revenue growth and **Copiers** for profit improvement. |
+| ⚠️ **Profitability Risk** | **Tables** generate **$757K Revenue** but **-$64K Profit**, with losses in APAC, EU, US, and LATAM. **Furniture** has weak margin (**6.94%**). | Stop aggressive promotion of **Tables** until pricing, discount, supplier cost, and shipping cost are reviewed. Do not scale **Furniture** as a whole category. |
+| 🎯 **Resource Allocation** | **US** and **LATAM** generate strong revenue but only moderate margins. Growth should not come from expanding every market and product equally. | Shift resources toward markets/products that combine **revenue scale + profit margin + sustainable demand**. |
