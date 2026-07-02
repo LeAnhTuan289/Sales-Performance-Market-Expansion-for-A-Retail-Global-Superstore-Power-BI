@@ -48,7 +48,7 @@ The goal is to provide senior managers with **data-driven insights** to:
 
 ✔️ Which market should we expand?
 
-✔️ Which product should become strategic?
+✔️ Which products should be prioritized and which ones should be limited?
 
 
 **🎯Project Outcome:**
@@ -155,75 +155,90 @@ This part is in the dashboard
 
 ### 🔍 Dashboard Preview
 
-### I. Overview
+This dashboard is designed for Senior Managers to monitor global business performance, identify potential markets for expansion, and select strategic products for future growth.  
+The analysis focuses not only on revenue performance, but also on profitability quality, market potential, and product-level risk.
+
+---
+
+## I. Business Overview
 
 ![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db1.png)
 
-### 📌 Key Findings:
+### 📌 Key Findings
 
-**1. Revenue & Profit Surged**  
-   - Revenue reached **$9.48M** and profit hit **$1.09M**, both increasing **51.3% YoY**. → **Growth** was primarily driven by **increased order volume**, **not by improved operational efficiency** (profit margin remained at **12%**).
+**1. Revenue and Profit increased steadily from 2011 to 2014, showing that the company is expanding in scale.**  
+The yearly trend shows consistent growth in both revenue and profit. This indicates that the company has strong business momentum and enough scale to consider further market expansion.
 
-**2. Customer Base Expands Steadily**  
-   - Customer count grew from **1303 (2011)** to **1501 (2014)**, with a stable **~1% return rate**. → Indicates **strong customer retention** and consistent service quality over time.
+**2. Profit Margin improved until 2013 but slightly declined in 2014, signaling that profitability efficiency is not continuously improving.**  
+Although revenue continued to grow, margin did not keep increasing. This suggests that the company should not evaluate growth only by sales volume, but also by the quality of profit generated.
 
-**3. Canada Shows Highest Profit Margin**  
-   - **Canada** achieved a **28% profit margin** despite low revenue. **US, EU, and APAC** contributed the highest revenue overall. → Suggests **Canada** has high **profitability potential**, while the **US remains the core market** in terms of scale.
+**3. Order volume increased consistently while Return Rate decreased in 2014.**  
+The company is scaling order volume without creating a major return issue at the overall level. This indicates that operational performance remains relatively stable during growth.
 
-**4. Consumer Segment Leads**  
-   - The **Consumer segment** generated **$4.9M**, the highest among all segments, with a stable **11–12% margin**. → Indicates **steady demand** and a key role in **driving overall growth**.
+**4. Technology is the strongest category because it combines high revenue with the highest profit margin among major categories.**  
+Technology contributes strongly to both revenue and profit, making it the best candidate for strategic product investment.
 
-**5. Technology Drives Growth**  
-   - **Technology products** generated the highest revenue across all regions. → Suggests **customers have a strong preference** for **tech products** over other categories.
+**5. Furniture generates large revenue but has weak profitability.**  
+Furniture has a much lower profit margin than Technology and Office Supplies. This means the company should avoid scaling Furniture aggressively before fixing low-margin sub-categories.
 
-**6. Growth Driven by Existing Customers**  
-   - **Buyer count** increased only **1%**, but **orders surged 51.7%**; **Average Order Value (AOV)** slightly decreased by **-0.3%**. → Indicates **strong repeat purchase behavior**, with smaller but more frequent orders.
+### 💡 Recommendation
+
+The company should continue expanding, but future growth should prioritize **profit quality**, not only revenue growth. Senior Managers should focus investment on high-margin categories such as **Technology**, while reviewing low-margin areas such as **Furniture**, especially products that negatively affect profitability.
+
+---
+
+## II. Market Analysis
 
 ![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db2.png)
 
-### 📌 Key Findings:
+### 📌 Key Findings
 
-**1. Revenue & Profit Distribution**  
-   - Total revenue **$9.48M**, with **APAC ($2.7M)**, **EU ($2.1M)**, and **US ($1.8M)** leading. → **Canada** had the highest **profit margin (28%)**, despite low revenue. **EMEA** and **Africa** underperformed with low revenue and profit margins (~6–12%).
+**1. APAC and EU are the core markets because they generate the largest revenue and profit contribution.**  
+These two markets are the current business foundation of the company. Any strategic decision should protect and strengthen performance in these regions first.
 
-**2. Profit Contribution by Market**  
-   - **APAC, EU, and US** contributed the most to profit. → **LATAM** steady (~15%), while **Africa** and **Canada** contributed minimally.
+**2. Canada has the highest Profit Margin but a very small revenue base.**  
+Canada is not yet a core market by revenue, but its high profitability shows strong potential as a niche expansion market if the company can scale carefully.
 
-**3. Revenue Growth by Market & Category**  
-   - **Canada** saw **+219.5% YoY** growth, especially in **Technology (+63.5%)**. → Emerging markets **EMEA (+183.15%)** and **Africa (+168.25%)** grew rapidly.
+**3. US and LATAM generate high revenue but only moderate profitability.**  
+These markets are commercially important, but they require margin optimization before receiving aggressive expansion investment.
 
- **4. Customer Base & Loyalty**  
-   - **Central, South, and EMEA** had the most **returning customers**. → **Oceania** showed potential with **187 new customers**.
+**4. EMEA has the weakest profitability among markets.**  
+EMEA has low revenue and the lowest profit margin, making it a low-priority market for major expansion. The company should diagnose the causes of poor profitability before investing more.
 
-**5. Order Volume & Return Rate**  
-   - **Central** led in **order volume** and **lowest return rate (~1%)**. → Other regions had stable return rates (1–3%).
+**5. Top revenue countries are not automatically the best expansion targets.**  
+United States, Australia, France, China, and Germany are the largest revenue countries. However, expansion decisions should also consider Profit Margin and growth quality, not revenue ranking alone.
 
-**6. Employee Productivity**  
-   - **Central** excelled with: → **$2.07M revenue/employee**, **$212K profit/employee**, **5,237 orders/employee**. → **Canada** had the lowest across all metrics.
-     
-### III. Product Analysis
+### 💡 Recommendation
+
+APAC and EU should remain the company’s core investment markets. Canada should be tested as a controlled high-margin expansion opportunity. US and LATAM should focus on margin improvement, while EMEA should be treated as a low-priority market until profitability improves.
+
+---
+
+## III. Product Analysis
 
 ![Image](https://github.com/LeAnhTuan289/Sales-Performance-Market-Expansion-for-A-Retail-Global-Superstore-Power-BI/blob/0ad42c69b65a90da96361a4bef98dcc26ac41f1c/documents/db3.png)
 
-### 📌 Key Findings:
+### 📌 Key Findings
 
-**1. Quadrant Analysis by Sub-Category**
-- **Copiers** and **Phones** are the leaders with high **revenue** and **strong profit margins**. **Accessories**, **Art**, and **Labels** are **profitable but under-scaled**, showing growth potential. **Chairs**, **Bookcases**, and **Storage** perform well in revenue but have **low profit margins**. **Supplier** and **Furnishings** are underperforming with both **low revenue** and **low margins**.
+**1. Phones and Copiers are the strongest candidates for strategic products.**  
+Phones show strong demand and high revenue, while Copiers generate strong profit and high margin. Together, they support both revenue growth and profitability improvement.
 
-**2. Revenue and Profit Margin by Sub-Category**
-- **Phones ($1.4M)**, **Chairs**, **Copiers**, and **Tables** lead in **revenue**. **Accessories (26%)**, **Labels (23%)**, and **Art (18%)** stand out for **profit margins**. **Tables (-7%)** are underperforming with negative profit margins.
+**2. Technology is the best strategic category overall.**  
+Technology outperforms other categories by combining scale and profitability. It should be the main focus for product strategy, marketing, inventory planning, and sales enablement.
 
-**3. Orders, Customers, and Return Rate by Sub-Category**
-- **Storage** leads in **orders (216)** but has low profit margins. **Labels (10%)**, **Fasteners (6%)**, and **Paper (5%)** show high **return rates**, raising potential quality concerns. Categories like **Art** and **Appliances** have **low return rates**, indicating high customer satisfaction.
+**3. Tables is the most critical loss-making sub-category.**  
+Tables generate sizable revenue but negative profit across multiple major markets. This is a clear profitability risk and should not be scaled further without corrective action.
 
-**4. Revenue and Profit by Ship Mode**
-- **Standard Class** dominates with **$5.7M in revenue**, while **First Class** and **Second Class** bring in significantly less. → Shows that **most customers prioritize cost over speed**.
+**4. Office Supplies is a stable supporting category.**  
+Office Supplies has healthy profitability and can support repeat purchases, bundling, and customer retention strategies.
 
-**5. Profit by Segment and Category**
-- **Consumer Segment** generates the highest profit (**$0.28M**), especially in **Technology**. **Office Supplies** yield lower profit margins, especially in **Home Office**.
+**5. Furniture should be optimized rather than aggressively expanded.**  
+Furniture has high revenue but weak margin, mainly due to poor-performing sub-categories such as Tables. Scaling Furniture without fixing margin issues may reduce overall profitability.
 
-**6. Top 10 Products by Profit**
-- **Canon imageCLASS 2200**, **Motorola Smart Phone**, and **Cisco Smart Full Size** top the profit list, mainly from **Technology**. → **Furniture** and **Office Supplies** products lag behind in profitability.
+### 💡 Recommendation
+
+The company should prioritize **Phones and Copiers** as strategic products. **Technology** should receive more investment in marketing, inventory, and sales focus. **Tables** should be reviewed immediately in terms of pricing, discounting, cost structure, and logistics. **Office Supplies** should be used as a supporting category for cross-selling and customer retention.
+
 
 ## 🔎 Final Conclusion & Recommendation 
 
